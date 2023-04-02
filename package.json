@@ -32,7 +32,6 @@
 		"@cliqz/adblocker-electron": "^1.26.3",
 		"cross-fetch": "^3.1.5",
 		"custom-electron-titlebar": "^4.2.0-beta.0",
-		"electron": "^23.2.1",
 		"ts-node": "^10.9.1"
 	}
 }
